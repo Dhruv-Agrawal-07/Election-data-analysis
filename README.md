@@ -54,19 +54,12 @@ SQL was used extensively to:
 
 ✔ Define alliances (NDA, I.N.D.I.A., OTHER)
 
-📌 Example queries used in the project are included from
-SQL Queries.pdf ✔️ 
-
-SQL Queries.docx final
-
 🛠️ Tools & Technologies
 Tool / Tech	Purpose
 Microsoft Power BI	Data Visualization & Reports
 MySQL	Data Storage & Querying
 DAX	KPI & Measure Creation
 MS Excel	Data Cleaning Support
-📈 Dashboard Preview (Screenshots)
-
 
 ⭐ Key Metrics Achieved
 
