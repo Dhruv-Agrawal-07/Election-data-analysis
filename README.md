@@ -19,9 +19,13 @@ A well-structured Entity Relationship Diagram (ERD) / Schema was designed to ens
 ✔️ Tables Used:
 
 partywise_results
+
 constituencywise_results
+
 constituencywise_details
+
 statewise_results
+
 states
 
 🔗 Relationships:
