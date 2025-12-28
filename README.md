@@ -45,6 +45,7 @@ Dashboards provide:
 🛢️ SQL Highlights
 
 SQL was used extensively to:
+
 ✔ Join datasets
 
 ✔ Create additional columns
