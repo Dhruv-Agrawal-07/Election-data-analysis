@@ -59,17 +59,25 @@ SQL was used extensively to:
 ✔ Define alliances (NDA, I.N.D.I.A., OTHER)
 
 🛠️ Tools & Technologies
+
 Tool / Tech	Purpose
+
 Microsoft Power BI	Data Visualization & Reports
+
 MySQL	Data Storage & Querying
+
 DAX	KPI & Measure Creation
+
 MS Excel	Data Cleaning Support
 
 ⭐ Key Metrics Achieved
 
 543 total parliamentary constituencies
+
 Vote % & Margin calculations
+
 Party-wise seat share distribution
+
 Filter-enabled exploration by State / Constituency / Alliance
 
 🧩 Future Enhancements
