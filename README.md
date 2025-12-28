@@ -46,8 +46,11 @@ Dashboards provide:
 
 SQL was used extensively to:
 ✔ Join datasets
+
 ✔ Create additional columns
+
 ✔ Aggregate seats & votes
+
 ✔ Define alliances (NDA, I.N.D.I.A., OTHER)
 
 📌 Example queries used in the project are included from
